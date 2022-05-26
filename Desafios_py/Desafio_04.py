@@ -1,3 +1,5 @@
+# Decodificar um dado - Desafio_04
+
 data = input('Digite um valor: ')
 print('capitalize() -> Retorna o primeiro caracter Maiusculo: {}'.format(data.capitalize()))
 print('casefold() -> Retorna todos os caracteres minusculo: {}'.format(data.casefold()))
